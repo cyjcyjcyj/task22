@@ -1,0 +1,18 @@
+/* CSS Document */
+body{text-align: center;}
+div{
+border:1px #000000 solid;
+margin:10px;
+text-align: center;
+display:inline-block;
+}
+
+
+.NO1{width: 1000px;height: 200px;}
+.NO2{width: 45%;height: 90%;}
+.NO3{width: 40%;height: 90%;}
+.NO4{width: 20%;height: 90%;}
+
+#button{
+border:none;
+}
